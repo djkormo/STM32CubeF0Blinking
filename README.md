@@ -1,7 +1,7 @@
 # STM32CubeF0Blinking
 First try of using DAC i ADC  for FM synthesis Cortex M0, Hal Library
 
-First try to use DAC with TIM6 as source trigger to produre sumn of three sine waves for audio applications.
+First try to use DAC with TIM6 as source trigger to produre sum of three sine waves for audio applications.
 
 Sine wave wille be generating using DDS algorythm
 http://lancasterhunt.co.uk/direct-digital-synthesis-dds-for-idiots-like-me/
@@ -26,8 +26,6 @@ https://www.mentor.com/embedded-software/sourcery-tools/sourcery-codebench/editi
 Initial template for eclipse with HAL library was made from STM32CubeMx  according to 
 
 http://www.carminenoviello.com/2015/11/02/quickly-import-stm32cubemx-project-eclipse-project/
-
-
 
 
 The program was tested on
