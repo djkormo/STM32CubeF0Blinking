@@ -3,7 +3,7 @@ First try of using DAC i ADC  for FM synthesis Cortex M0, Hal Library
 
 First try to use DAC with TIM6 as source trigger to produre sum of three sine waves for audio applications.
 
-Sine wave wille be generating using DDS algorythm
+Sine wave will be generated using DDS algorythm
 http://lancasterhunt.co.uk/direct-digital-synthesis-dds-for-idiots-like-me/
 
 Frequencies are controlled by one resistor per channel connected to ADC (channel 0.1 and 2) .
